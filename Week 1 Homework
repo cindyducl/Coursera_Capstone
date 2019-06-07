@@ -1,5 +1,5 @@
 # This file will mainly be used for the Capstone project.
 
 import pandas as pd
-import Numpy asa np
+import numpy as np
 print("Hello Capstone Project Course!")
